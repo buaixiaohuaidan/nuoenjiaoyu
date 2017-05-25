@@ -139,7 +139,7 @@
 		border:1px solid white;
 		position:absolute;
 		top:349px;
-		left:880px;
+		left:900px;
 	}
 
 	 .lb ul {

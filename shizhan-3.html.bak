@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+
+ <style type="text/css">
+	
+	.lb {
+		width:450px;
+		height:520px;
+		border:1px solid blue;
+	}
+
+	 .lb ul {
+		
+		list-style:none;
+		
+		text-align:center;
+		text-align:left;
+		padding:0px 0px 70px 0px;
+		
+	}
+
+	 .lb img {
+		float:left;
+		
+		left:100px;
+		width:125px;
+		height:95px;
+		margin:0px 20px auto;
+	}
+
+	.lb1 {
+		width:70px;
+		height:20px;
+
+		margin:0px 10px 10px 160px;
+		background-color: orange;
+	}
+
+	.lb2 {
+		width:70px;
+		height:20px;
+
+		margin:0px 10px 10px 160px;
+		background-color: #00ccff;
+		text-align:center;
+	}
+
+	.lb3 {
+		width:70px;
+		height:20px;
+
+		margin:0px 10px 10px 160px;
+		background-color: #00ccff;
+	}
+
+	
+ </style>
+
+ <body>
+
+
+  <div class="lb">
+  <ul>
+	<img src="images/3.jpg">
+	<li><h4>邓文婷老师</h4></li>
+	<li class="lb1">英语老师</li>
+	<li><p>新西兰名校，数学经验丰富，对英语......</p></li>
+  </ul>
+  <ul>
+	<img src="images/2.jpg">
+	<li><h4>舒晨丽老师</h4></li>
+	<li class="lb2">数学老师</li>
+	<li><p>新西兰名校，数学经验丰富，对英语......<p></li>
+  </ul>
+  <ul>
+	<img src="images/3.jpg">
+	<li><h4>冯春杰老师</h4></li>
+	<li class="lb3">法语老师</li>
+	<li><p>新西兰名校，数学经验丰富，对英语......<p></li>
+  </ul>
+  </div>
+
+ </body>
+</html>

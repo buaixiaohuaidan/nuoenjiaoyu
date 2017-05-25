@@ -8,97 +8,17 @@
   <meta name="Description" content="">
   <title>Document</title>
  </head>
-
  <style type="text/css">
 
-	/*第一部分*/
-	.div {
-		border:1px solid red;
-		width:1400px;
-		height:1500px;
-		margin: 0px auto;
-		
-		
-		
-	}
-
-	/*第二部分*/
-	.div1 {
-		width:1300px;
-		height:300px;
-		margin: 0px auto;
-
-		background-image: url(1.jpg);
-		background-repeat: no-repeat;
-	}
-
-	
-	#dian1 {
-		width:230px;
-		height:35px;
-
-		margin: 0px auto;
-		
-		background-color: blue;
-		border: 1px solid white; 
-	}
-
-	#dian2 {
-		width:230px;
-		height:32px;
-
-		margin: 0px auto;
-		
-		background-color: red;
-		border: 1px solid white;
-	}
-
-	#dian3 {
-		width:230px;
-		height:32px;
-
-		margin: 0px auto;
-		
-		background-color: purple;
-		border: 1px solid white;
-	}
-
-	#dian4 {
-		width:230px;
-		height:32px;
-
-		margin: 0px auto;
-		
-		background-color: green;
-		border: 1px solid white;
-	}
-
-	#dian5 {
-		width:230px;
-		height:32px;
-
-		margin: 0px auto;
-		
-		background-color: orange;
-		border: 1px solid white;
-	}
-
-	
-	.b1 {
-		width:1220px;
-		margin:0px auto;
-		border:1px solid white;
-	}
-
-	/*第三部分*/
 
 	.div2 {
 		border:1px solid white;
 		width:1220px;
 		height:510px;
-		margin: 25px auto;
+		margin: 0px auto;
 	}
 
+	
 	.k1 {
 		width:670px;
 		height:505px;
@@ -132,14 +52,15 @@
 		text-align:center;
 	}
 
-	/*第四部分*/
+	/*2*/
 	.lb {
 		width:450px;
-		height:520px;
+		height:510px;
 		border:1px solid white;
 		position:absolute;
-		top:349px;
-		left:880px;
+		top:9px;
+		left:795px;
+		
 	}
 
 	 .lb ul {
@@ -148,7 +69,7 @@
 		
 		text-align:center;
 		text-align:left;
-		padding:0px 0px 72px 0px;
+		padding:0px 0px 60px 0px;
 		
 	}
 
@@ -163,59 +84,34 @@
 
 	.lb1 {
 		width:70px;
-		height:20px;
+		height:15px;
 
-		margin:0px 10px 10px 160px;
+		margin:5px 10px 10px 160px;
 		background-color: orange;
 	}
 
 	.lb2 {
 		width:70px;
-		height:20px;
+		height:15px;
 
-		margin:0px 10px 10px 160px;
+		margin:5px 10px 10px 160px;
 		background-color: #00ccff;
 		text-align:center;
 	}
 
 	.lb3 {
 		width:70px;
-		height:20px;
+		height:15px;
 
-		margin:0px 10px 10px 160px;
+		margin:5px 10px 10px 160px;
 		background-color: #00ccff;
 	}
 
 	
 
  </style>
-
-
  <body>
 
-	<!--第一部分-->
-
-  <div class="div">
-
-  <div class="div1"></div>
-
-  <!--第二部分-->
-
-  <form class="b1">
-
-  <input type="button" value="首页" id="dian1" />
-
-  <input type="button" value="精品课程" id="dian2" />
-
-  <input type="button" value="名师团队" id="dian3" />
-
-  <input type="button" value="联系我们" id="dian4" />
-
-  <input type="button" value="关于诺恩" id="dian5" />
-
-  </form>
-
-  <!--第三部分-->
   <div class="div2">
 
   <div class="k1">
@@ -229,6 +125,7 @@
 		<li>学费</li>
 		<li>咨询</li>
  
+  
   <table border="1" width="650" height="400" class="bg" cellspacing="0">
   <tr>
 	<td width="80" align="center">法语v2提高班</td>
@@ -278,8 +175,7 @@
   </div>
 
   </div>
-
-  <!--第四部分-->
+<!--2-->
    <div class="lb">
   <ul>
 	<img src="images/3.jpg">
@@ -301,10 +197,10 @@
   </ul>
   </div>
 
-  </div>
+ </div>
 
 
-  </div>
+
 
  </body>
 </html>
