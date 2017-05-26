@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+
+ <style type="text/css">
+
+	.d1{
+		width:600px;
+		height:60px;
+		border:1px solid white;
+		margin:10px 200px ;;
+		
+	}
+	
+	h1 {
+		margin:0px;
+		color:blue;
+		text-align:center;
+		
+	}
+
+	h3 {
+		margin:0px;
+		color:blue;
+		text-align:center;
+		
+	}
+	/**/
+
+	 h2 {
+		
+		color:#0099cc;
+	}
+
+	 ul li {
+		color:#0099cc;
+		font-size:15px;
+	}
+
+	.z1 {
+		width:110px;
+		height:40px;
+
+		background-color:blue;
+		color:white;
+
+		margin: 0px auto;
+
+		border:#0099cc;
+	}
+
+	a {
+		color:gray;
+	}
+
+	.lb4 {
+		width:600px;
+		height:300px;
+
+		border:1px solid white;
+
+		margin:-300px 450px ;
+	}
+
+	.div {
+		border:1px solid blue;
+
+		width:1220px;
+		height:400px;
+
+		margin: 0px auto;
+	
+	}
+	}
+
+	 
+ </style>
+
+ <body>
+ <div class="div3">
+
+ <div class="d1">
+  <h1>精准求精 追求完美</h1>
+  <h3>我们用心服务</h3>
+  </div>
+
+  <img src="images/5.jpg" width="438" height="303" border="0" alt="" />
+  
+  <div class="lb4">
+
+  <ul>
+
+	<h2>诺恩动态</h2>
+
+	<li>
+		<a>2002年成立武汉环球英语培训学校，2006年9月获得软银赛富数亿投资</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global Education & Technologv Group,拥有在全球</a>
+	</li><br>
+
+	<li>
+		<a>56个城市从事外语和职业教育培训的连锁学校。作为国内领军的连锁外语培训机构，</a>
+	</li><br>
+
+	<li>
+		<a>被评为全国十大知名学校；荣获2006中国领军培训机构</a>
+	</li><br>
+
+	<input type="button" value="查看全部动态" class="z1" />
+  </ul>
+
+  </div>
+
+  </div>
+
+  
+
+
+ </body>
+</html>

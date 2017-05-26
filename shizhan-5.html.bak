@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+
+ <style type="text/css">
+	
+ .div4 {
+	width:1220px;
+	height:365px;
+	border:1px solid white;
+	background-color:#f4f4f4;
+	margin:0px auto;
+ }
+
+ .lb5 {
+	width:500px;
+	height:350px;
+	border:1px solid #f4f4f4;
+	margin:-1px 150px 0px 150px;
+ }
+
+ .b6 h2 {
+	color:#ffcc33;
+ }
+
+ .b6 li {
+	color:#ffcc33;
+	font-size:15px;
+ }
+
+ .b6 a {
+	color:gray;
+ }
+
+ .z2 {
+	width:110px;
+	height:40px;
+	background-color:#ffcc33;
+	border:white;
+	color:white;
+ }
+
+ .t1 img {
+	margin:-360px 652px 0px 652px;
+	border:1px solid #f4f4f4;
+ }
+
+ </style>
+
+ <body>
+  <div class="div4">
+
+  <div class="lb5">
+  <ul class="b6">
+	<h2>办学理念</h2>
+	<li>
+		<a>2002年成立武汉环球英语培训学校，2006年9月</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global</a>
+	</li><br>
+
+	<li>
+		<a>56个城市从事外语和职业教育培训的连锁学校。作为国内领军</a>
+	</li><br>
+
+	<li>
+		<a>被评为全国十大知名学校；荣获2006中国领军培训机构</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global Education & Technology Group</a>
+	</li><br>
+
+	<input type="button" value="查看全部动态" class="z2" />
+
+  </ul>
+  </div>
+
+  <div class="t1">
+  <img src="images/6.jpg" width="384" height="368" border="0" alt="">
+  </div>
+  
+  </div>
+ </body>
+</html>

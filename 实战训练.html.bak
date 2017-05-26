@@ -14,8 +14,8 @@
 	/*第一部分*/
 	.div {
 		border:1px solid red;
-		width:1400px;
-		height:1500px;
+		width:1300px;
+		height:2200px;
 		margin: 0px auto;
 		
 		
@@ -34,53 +34,53 @@
 
 	
 	#dian1 {
-		width:230px;
-		height:35px;
+		width:236px;
+		height:38px;
 
 		margin: 0px auto;
 		
 		background-color: blue;
-		border: 1px solid white; 
+		border-radius: 10px 10px 10px 10px; 
 	}
 
 	#dian2 {
-		width:230px;
-		height:32px;
+		width:236px;
+		height:38px;
 
 		margin: 0px auto;
 		
 		background-color: red;
-		border: 1px solid white;
+		border-radius: 10px 10px 10px 10px;
 	}
 
 	#dian3 {
-		width:230px;
-		height:32px;
+		width:236px;
+		height:38px;
 
 		margin: 0px auto;
 		
 		background-color: purple;
-		border: 1px solid white;
+		border-radius: 10px 10px 10px 10px;
 	}
 
 	#dian4 {
-		width:230px;
-		height:32px;
+		width:236px;
+		height:38px;
 
 		margin: 0px auto;
 		
 		background-color: green;
-		border: 1px solid white;
+		border-radius: 10px 10px 10px 10px;
 	}
 
 	#dian5 {
-		width:230px;
-		height:32px;
+		width:236px;
+		height:38px;
 
 		margin: 0px auto;
 		
 		background-color: orange;
-		border: 1px solid white;
+		border-radius: 10px 10px 10px 10px;
 	}
 
 	
@@ -102,19 +102,19 @@
 	.k1 {
 		width:670px;
 		height:505px;
-		border:4px solid gray;
+		border:4px solid #f4f4f4;
 	}
 
 	.bg {
 
 		margin:0px auto;
-		border-color:lightblue;
+		border-color:#f4f4f4;
 	}
 
 	.nav {
 		margin:0px auto;
 		width:650px;
-		border:1px solid gray;
+		border:1px solid #f4f4f4;
 	}
 
 	.nav ul {
@@ -128,18 +128,18 @@
 		width:130px;
 		height:30px;
 		line-height:40px;
-		background-color:lightblue;
+		background-color:#e4f2ff;
 		text-align:center;
 	}
 
 	/*第四部分*/
 	.lb {
 		width:450px;
-		height:520px;
+		height:540px;
 		border:1px solid white;
 		position:absolute;
 		top:349px;
-		left:900px;
+		left:810px;
 	}
 
 	 .lb ul {
@@ -175,18 +175,208 @@
 
 		margin:0px 10px 10px 160px;
 		background-color: #00ccff;
-		text-align:center;
+		text-align:left;
 	}
 
 	.lb3 {
 		width:70px;
 		height:20px;
-
+		
 		margin:0px 10px 10px 160px;
 		background-color: #00ccff;
+	
+		
 	}
 
+	/*第五部分*/
+
+	.d1{
+		width:600px;
+		height:60px;
+
+		margin:10px 200px ;;
+		
+	}
 	
+	h1 {
+		width:820px;
+		height:50px;
+
+		margin:0px;
+
+		color:blue;
+		text-align:center;
+		
+	}
+
+	.bq3 {
+		width:820px;
+		height:40px;
+
+		margin:0px;
+
+		color:blue;
+		text-align:center;
+		
+	}
+	
+
+	 .b5 h2 {
+		
+		color:#0099cc;
+	}
+
+	 .b5 li {
+		color:#0099cc;
+		font-size:15px;
+	}
+
+	.z1 {
+		width:110px;
+		height:40px;
+
+		color:white;
+
+		margin: 0px auto;
+
+		border-radius: 7px 7px 7px 7px;
+
+		background-color:#0099cc;
+	}
+
+	.b5 a {
+		color:gray;
+	}
+
+	.lb4 {
+		width:600px;
+		height:300px;
+		
+		margin:-300px 620px ;
+	}
+
+	.t img {
+		margin:0px 100px 0px 100px;
+	}
+
+	.div3 {
+		
+		width:1220px;
+		height:400px;
+
+		margin: 0px auto;
+	} 
+
+	 /*第六部分*/
+	.div4 {
+		width:1298px;
+		height:370px;
+		
+		background-color:#f4f4f4;
+		margin:0px auto;
+	}
+
+	.lb5 {
+		width:500px;
+		height:350px;
+
+		margin:-3px 150px 0px 150px;
+	}
+
+	.b6 h2 {
+		color:#ffcc33;
+	}
+
+	.b6 li {
+		color:#ffcc33;
+		font-size:15px;
+	}
+
+	.b6 a {
+		color:gray;
+	}
+
+	.z2 {
+		width:110px;
+		height:40px;
+
+		background-color:#ffcc33;
+		border-radius: 7px 7px 7px 7px;
+
+		color:white;
+	}
+
+	.t1 img {
+		margin:-360px 652px 0px 652px;
+	}
+
+	/*第七部分*/
+	.div5 {
+		width:1300px;
+		height:400px;
+
+		margin:0px auto;
+	}
+
+	.lb6 {
+		width:500px;
+		height:300px;
+		
+		margin:-350px 630px;
+	}
+
+	.z3 {
+		width:110px;
+		height:40px;
+		border-radius:7px 7px 7px 7px;
+		background-color:purple;
+		color:white;
+	}
+
+	.b7 h2 {
+		color:purple;
+	}
+
+	.b7 li {
+		color:purple;
+		font-size:15px;
+	}
+
+	.b7 a {
+		color:gray;
+	}
+
+	.t2 img {
+		margin:0px 100px 0px 100px;
+	}
+
+	 /*第八部分*/
+	 .div6 {
+		width:1300px;
+		height:100px;
+		margin:400px auto;
+		
+	 }
+	.w {
+		width:1300px;
+		height:20px;
+
+		background:#b3bdc6;
+
+		line-height:20px;/*行高*/
+
+		text-align:center;
+	}
+
+	.w1 {
+		width:1300px;
+		height:20px;
+
+		line-height:20px;/*行高*/
+
+		text-align:center;
+		padding:30px;
+	}
 
  </style>
 
@@ -299,6 +489,133 @@
 	<li class="lb3">法语老师</li>
 	<li><p>新西兰名校，数学经验丰富，对英语......<p></li>
   </ul>
+
+  </div>
+
+  </div>
+
+<!--第五部分-->
+  <div class="div3">
+
+  <div class="d1">
+  <h1>精准求精 追求完美</h1>
+  <h3 class="bq3">我们用心服务</h3>
+  </div>
+  
+  <div class="t">
+  <img src="images/5.jpg" width="438" height="303" border="0" alt="" />
+  </div>
+  
+  <div class="lb4">
+
+  <ul class="b5">
+
+	<h2>诺恩动态</h2>
+
+	<li>
+		<a>2002年成立武汉环球英语培训学校，2006年9月获得软银赛富数亿投资</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global Education & Technologv Group,拥有在全球</a>
+	</li><br>
+
+	<li>
+		<a>56个城市从事外语和职业教育培训的连锁学校。作为国内领军的连锁外语培训机构，</a>
+	</li><br>
+
+	<li>
+		<a>被评为全国十大知名学校；荣获2006中国领军培训机构</a>
+	</li><br>
+
+	<input type="button" value="查看全部动态" class="z1" />
+  </ul>
+
+  </div>
+
+  </div>
+
+  <div class="div4">
+
+  <div class="lb5">
+  <ul class="b6">
+	<h2>办学理念</h2>
+	<li>
+		<a>2002年成立武汉环球英语培训学校，2006年9月</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global</a>
+	</li><br>
+
+	<li>
+		<a>56个城市从事外语和职业教育培训的连锁学校。作为国内领军</a>
+	</li><br>
+
+	<li>
+		<a>被评为全国十大知名学校；荣获2006中国领军培训机构</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global Education & Technology Group</a>
+	</li><br>
+
+	<input type="button" value="查看全部动态" class="z2" />
+
+  </ul>
+  </div>
+
+  <div class="t1">
+  <img src="images/6.jpg" width="384" height="364" border="0" alt="">
+  </div>
+  
+  </div>
+
+  <!--第七部分-->
+  <div class="div5">
+  
+  <div class="t2">
+  <img src="images/7.jpg" width="438" height="376" border="0" alt="">
+  <div>
+
+  <div class="lb6">
+
+  <ul class="b7">
+
+	<h2>企业文化</h2>
+
+	<li>
+		<a>2002年成立武汉环球英语培训学校，</a>
+	</li><br>
+
+	<li>
+		<a>组成环球天下教育科技Global</a>
+	</li><br>
+
+	<li>
+		<a>56个城市从事外语和职业教育培训</a>
+	</li><br>
+
+	<li>
+		<a>被评为全国十大知名学校；荣获2006中国领军培训机构</a>
+	</li><br>
+
+	<input type="button" value="查看全部信息" class="z3" />
+
+  </ul>
+  </div>
+
+  </div>
+
+  <!--第八部分-->
+  <div class="div6">
+  <div class="w">
+	<a>关于我们 | 诺恩教育 | 联系我们 | 关于我们</a>
+  </div>
+
+  <div class="w1">
+	<a>Copyight　 2000-2015 诺恩教育　 www.nuoen.net　 All　Rights　Reserved</a><br>
+	<a>蜀ICP备05000568号　教外综资认字【2000]136号　川公境准字[2010】2714号</a>
   </div>
 
   </div>

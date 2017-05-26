@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <style type="text/css">
+	.w {
+		width:1300px;
+		height:20px;
+
+		background:#b3bdc6;
+
+		line-height:20px;/*行高*/
+
+		text-align:center;
+	}
+
+	.w1 {
+		width:1300px;
+		height:20px;
+
+		line-height:20px;/*行高*/
+
+		text-align:center;
+	}
+
+ </style>
+ <body>
+  <div class="w">
+	<a>关于我们 | 诺恩教育 | 联系我们 | 关于我们</a>
+  </div>
+
+  <div class="w1">
+	<a>Copyight　 2000-2015　 诺恩教育　 www.nuoen.net　 All　Rights　Reserved</a><br>
+	<a>蜀ICP备05000568号 教外综资认字【2000]136号 川公境准字[2010】2714号</a>
+  </div>
+ </body>
+</html>
